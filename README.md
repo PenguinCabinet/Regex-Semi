@@ -6,7 +6,7 @@ It is used by [randexp.js](https://github.com/fent/randexp.js)
 セミの鳴き声を正規表現で記述するリポジトリです。  
 The repository of regular expressions describing cicada sounds.  
 It is written in Japanese. 
-   
+
 <div align="center">
 
 ![license](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
@@ -15,7 +15,7 @@ It is written in Japanese.
 
 ## 📖蝉の一覧
 * [ミンミンゼミ](ミンミンゼミ.txt)
-* [ツクツクボウシ](ツクツクボウシ.txt)
+* [ツクツクボーシ](ツクツクボーシ.txt)
 
 ## 🎫LICENSE
 
