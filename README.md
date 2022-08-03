@@ -16,6 +16,7 @@ It is written in Japanese.
 ## 📖蝉の一覧
 * [ミンミンゼミ](ミンミンゼミ.txt)
 * [ツクツクボーシ](ツクツクボーシ.txt)
+* [ひぐらし](ひぐらし.txt)
 
 ## 🎫LICENSE
 
